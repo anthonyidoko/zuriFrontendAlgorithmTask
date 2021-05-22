@@ -9,10 +9,6 @@ function convertFahrToCelsius(f) {
     }
 }
 
-// console.log(convertFahrToCelsius(0));
-// console.log(convertFahrToCelsius("0"));
-// console.log(convertFahrToCelsius([1,2,3]));
-// console.log(convertFahrToCelsius({temp: 0}));
 console.log(convertFahrToCelsius([7])); 
 console.log(convertFahrToCelsius("Chris"))
 console.log(convertFahrToCelsius("32"))
@@ -20,13 +16,6 @@ console.log(convertFahrToCelsius(""))
 console.log(convertFahrToCelsius(0))
 console.log(convertFahrToCelsius({re:2}))
 console.log(convertFahrToCelsius(true))
-//  convertFahrToCelsius([7]): [7] is not a valid number but a/an array
-// - convertFahrToCelsius("Chris"): Chris is not a valid number but a/an string
-// - convertFahrToCelsius("32"): 0
-// - convertFahrToCelsius(""): "" is not a valid number but a/an string
-// - convertFahrToCelsius(0): -17.7778 (must be to 4 d.p)
-// - convertFahrToCelsius({re:2}): {re:2} is not a valid number but a/an object
-// - convertFahrToCelsius(false): false is not a valid number but a/an boolean
 
 
 
