@@ -49,13 +49,13 @@ function checkYuGiOh(n){
     }
 }
 
-console.log(checkYuGiOh(null));
-console.log(checkYuGiOh("30"))
-console.log(checkYuGiOh(""))
-console.log(checkYuGiOh(10))
-console.log(checkYuGiOh([]))
-console.log(checkYuGiOh({temp:2}))
-console.log(checkYuGiOh(false))
+// console.log(checkYuGiOh(null));
+// console.log(checkYuGiOh("30"))
+// console.log(checkYuGiOh(""))
+// console.log(checkYuGiOh(10))
+// console.log(checkYuGiOh([]))
+// console.log(checkYuGiOh({temp:2}))
+// console.log(checkYuGiOh(false))
 
 
 
